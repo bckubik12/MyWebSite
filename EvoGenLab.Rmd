@@ -1,0 +1,10 @@
+---
+title: "EvoGenLab"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Follow [this link](https://bckubik12.github.io/genomics-course/) to my EvoGenLab repository Git Page!

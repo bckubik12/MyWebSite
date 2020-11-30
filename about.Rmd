@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+## Briana Kubik
+
+Briana Kubik is a second year Microbiology Ph.D. student at the University of Massachusetts Amherst. She is currently doing work in Dr. James Holden's research group using laboratory and computational approaches to model interspecies competition between thermophiles in hydrothermal vent ecosystems.  
